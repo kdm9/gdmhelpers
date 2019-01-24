@@ -1,0 +1,17 @@
+Package: gdmhelpers
+Type: Package
+Title: Helpers for Generalised Dissimilarity Modelling
+Version: 0.1.0
+Author: Kevin Murray <foss@kdmurray.id.au>
+Maintainer: Kevin Murray <foss@kdmurray.id.au>
+Description: Various GDM utilities
+License: MPL-2
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr,
+    tidyr,
+    gdm,
+    fossil,
+    foreach
+RoxygenNote: 6.1.1
